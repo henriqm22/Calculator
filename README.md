@@ -1,4 +1,5 @@
 # 🧮 Calculadora em C#  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Calculadora simples que recebe 2 valores inseridos pelo usuário e realiza operações básicas (+, -, *, /).
 
