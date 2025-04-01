@@ -1,0 +1,22 @@
+# Arquivos de build e executáveis
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Arquivos do VS Code e Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Arquivos de configuração local
+*.json.user
+*.bin
+*.metadada
+
+# Outros
+.DS_Store
+*.log
