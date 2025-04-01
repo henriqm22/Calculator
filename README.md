@@ -26,3 +26,8 @@
    Execute o comando: dotnet run
 
 
+## 📸 Screenshot  
+![Menu da Calculadora](menu.png)
+
+Tela Final
+![Sair/exit](final.png)
