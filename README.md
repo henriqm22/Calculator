@@ -32,9 +32,6 @@
      dotnet run
 
 
-## 📸 Comando
-![Comando](command.png)
-
 ## 📸 Menu
 ![Menu da Calculadora](menu.png)
 
