@@ -18,7 +18,14 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ## 🛠️ Tecnologias  
 - **C#**  
 - **.NET 9**  
-- **Visual Studio Code**  
+- **Visual Studio Code**
+
+---
+
+   ## ⭐ Funcionalidades
+   - [x] Operações básicas (+, -, *, /)
+   - [x] Menu interativo
+   - [x] Interface simples
 
 ---
 
