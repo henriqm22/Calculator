@@ -33,7 +33,7 @@
 
 
 ## 📸 Execução
-![Comando de Execução](comando.png)
+![Comando](comando.png)
 
 ## 📸 Menu
 ![Menu da Calculadora](menu.png)
