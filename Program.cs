@@ -30,7 +30,7 @@ namespace Calculator
         while(!short.TryParse(input, out result) || result <1 || result >5)
         {
             Console.Clear();
-            Console.WriteLine("Tecla inválida! Escolha uma das opções de 1 a 5. ");c
+            Console.WriteLine("Tecla inválida! Escolha uma das opções de 1 a 5. ");
             input = Console.ReadLine();
     
         }
