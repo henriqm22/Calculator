@@ -25,4 +25,4 @@
 
    Execute o comando: dotnet run
 
-   <div align="center"> <img src="./screenshot.png" alt="menu.png" width="400"> </div>
+
