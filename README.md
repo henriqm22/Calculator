@@ -2,6 +2,8 @@
 
 > Calculadora simples que recebe 2 valores inseridos pelo usuário e realiza operações básicas (+, -, *, /).
 
+**License:** MIT
+
 <div align="center">  
   <!-- Badge de licença (opcional) -->
   <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">  
@@ -21,7 +23,8 @@
 ## 🚀 Como Executar  
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/henriqm22/Calculator
+   git clone https://github.com/henriqm22/calculator
+   ```
    
 2. Acesse a pasta do projeto:
     ```bash
